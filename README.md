@@ -2,7 +2,21 @@
 
 A simple Python script that automates the process of checking attendance on the JGI student portal.
 
-## Installation { Requires Python (https://www.python.org/downloads/) }
+## How to Run (Easy Method)
+
+For MacOS: https://github.com/asad-shaik-md/AttendanceAuto/blob/main/JainAttendanceChecker
+
+For Winodws: https://github.com/asad-shaik-md/AttendanceAuto/blob/main/JainAttendanceChecker.exe
+
+1. Download the file for your OS
+
+      <img width="252" height="74" alt="Screenshot 2025-08-12 at 7 50 07 PM" src="https://github.com/user-attachments/assets/e1b1deb5-0553-4c83-bb50-f0dcba521085" />
+   
+2. Open the file and Wait till a new browser instance opens with JGI website
+3. After logging in, go back to terminal or CMD and press Enter(The Dark window in which code was running)
+
+   
+## How to Run (Second Method) { Requires Python (https://www.python.org/downloads/) }
 
 1. Download this repo
    
