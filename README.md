@@ -36,25 +36,3 @@ The script will:
 2. Wait for you to manually complete login (including CAPTCHA)
 3. Automatically extract attendance data for all subjects
 4. Display detailed attendance statistics
-
-## Configuration
-
-You can modify settings in `config.py`:
-- URLs for login and attendance pages
-- Timeout values
-- Attendance percentage thresholds
-- XPath selectors for web elements
-
-## Files
-
-- `attendance_checker.py` - Main script with all functionality
-- `config.py` - Configuration settings
-- `requirements.txt` - Python dependencies
-- `.gitignore` - Git ignore rules
-
-## Troubleshooting
-
-- Ensure Chrome browser is installed and up to date
-- If ChromeDriver issues occur, the script will automatically try to resolve them
-- Make sure you have stable internet connection
-- Verify the URLs in config.py are correct for your institution
