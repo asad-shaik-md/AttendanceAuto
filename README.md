@@ -1,4 +1,4 @@
-# Jain University Attendance Checker
+# JGI Attendance Checker
 
 A simple Python script that automates the process of checking attendance on the JGI student portal.
 
