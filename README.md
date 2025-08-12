@@ -18,10 +18,14 @@ A simple Python script that automates the process of checking attendance on the 
 
 ## Installation
 
-1. Clone or download this repository
-2. Run `run_macos.command` for macOS or `run_windows.bat` for Windows.
-3. After Logging in, go back terminal and press Enter.
-4. Thats it.
+1. Download this repo
+   
+    <img width="619" height="387" alt="github" src="https://github.com/user-attachments/assets/d21e576f-5073-4bb3-9ec9-c526fb959393" />
+
+2. Extract the Zip File
+3. Run `run_macos.command` for macOS or `run_windows.bat` for Windows.
+4. After Logging in, go back terminal and press Enter.
+5. Thats it.
 
 The script will:
 1. Open Chrome browser and navigate to the login page
