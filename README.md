@@ -19,23 +19,9 @@ A simple Python script that automates the process of checking attendance on the 
 ## Installation
 
 1. Clone or download this repository
-2. Create a virtual environment (recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-Simply run the main script:
-
-```bash
-python attendance_checker.py
-```
+2. Run run_macos.command for macOS or Run run_windows.bat for Windows
+3. After Logging in, go back terminal and press Enter.
+4. Thats it.
 
 The script will:
 1. Open Chrome browser and navigate to the login page
