@@ -1,22 +1,8 @@
 # Jain University Attendance Checker
 
-A simple Python script that automates the process of checking attendance on the Jain University student portal.
+A simple Python script that automates the process of checking attendance on the JGI student portal.
 
-## Features
-
-- Automated Chrome browser setup with ChromeDriver management
-- Manual login support (waits for user to complete login and CAPTCHA)
-- Automatic attendance data extraction for all subjects
-- Detailed attendance percentage calculations
-- Color-coded attendance status (Good/Warning/Critical)
-
-## Requirements
-
-- Python 3.7+
-- Chrome browser
-- Internet connection
-
-## Installation
+## Installation { Requires Python (https://www.python.org/downloads/) }
 
 1. Download this repo
    
